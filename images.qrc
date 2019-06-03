@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>default.jpg</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpeg</file>
+        <file>defaulttt.jpeg</file>
+        <file>exitactiv.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
